@@ -1,0 +1,10 @@
+{
+  "description": "A GitHub Actions-powered OpenCV dashboard that generates a demo video and preview image, helping developers showcase gunshot detection results without using Git commands.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
